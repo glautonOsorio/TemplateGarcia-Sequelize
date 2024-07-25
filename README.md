@@ -16,7 +16,7 @@ Template Garcia é um modelo de projeto utilizando Sequelize, Express e outras d
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/template-garcia.git
+git clone https://github.com/glautonOsorio/TemplateGarcia-Sequelize
 ```
 
 2. Navegue até o diretório do projeto:
