@@ -1,7 +1,7 @@
 {
-  "name": "exercise-potato",
+  "name": "template-garcia",
   "version": "1.0.0",
-  "description": "Sequelize Week exercise Futuro Dev Fitness",
+  "description": "Template Sequelize",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
