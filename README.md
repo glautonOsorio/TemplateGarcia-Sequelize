@@ -109,4 +109,6 @@ Este projeto está licenciado sob a licença ISC.
 ## Autor
 
 - **Autor:** [Glauton Osório](https://github.com/glautonOsorio)
+
 - **Gato do Autor:** [Uni](https://github.com/glautonOsorio)
+- **Amante de Batata:** [Batata](https://github.com/glautonOsorio)
